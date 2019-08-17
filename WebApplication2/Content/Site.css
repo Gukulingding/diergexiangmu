@@ -29,3 +29,11 @@ textarea {
         padding: 0;
     }
 }
+
+
+.input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #555;
+    padding: 10px;
+}
